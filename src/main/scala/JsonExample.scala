@@ -1,5 +1,3 @@
-package AccountLogn
-
 import io.circe._
 import io.circe.syntax.EncoderOps
 
