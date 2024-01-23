@@ -1,6 +1,6 @@
 <div align="center">
 
-# Kinabalu
+# Kinabalu-Ecommerce
 
 
 <img alt="Release date" src="https://img.shields.io/badge/release date-april 2023-red">
